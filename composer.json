@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sastrawi/sastrawi": "^1.2",
+        "nette/database": "^3.1"
+    }
+}
